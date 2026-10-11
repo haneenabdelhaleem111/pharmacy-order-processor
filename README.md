@@ -1,4 +1,4 @@
-Pharmacy Order Processor
+### Pharmacy Order Processor
 
 A Python automation project that reads pharmacy orders from CSV and JSON files, validates order information, separates valid and invalid orders, and saves processing results to output files.
 
@@ -18,17 +18,4 @@ Automated Output: Export valid and invalid orders to separate JSON files.
 
 Modular Code: Keep validation logic separate from processing scripts.
 
-Project Structure
 
-pharmacy-order-processor/
-├── main.py
-├── validators.py
-├── process_csv_orders.py
-├── process_json_orders.py
-├── orders.csv
-├── orders.json
-├── valid_orders.json
-├── invalid_orders.json
-├── requirements.txt
-├── .gitignore
-└── README.md
