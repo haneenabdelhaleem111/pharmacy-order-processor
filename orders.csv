@@ -1,0 +1,6 @@
+order_id,patient_name,medicine,quantity
+101,Ahmed,Medicine A,2
+102,Sara,,1
+103,Omar,Medicine B,3
+104,Mona,Medicine C,0
+105,Ali,Medicine D,abc

@@ -1,0 +1,24 @@
+[
+    {
+        "order": {
+            "order_id": 102,
+            "patient_name": "Sara",
+            "medicine": "",
+            "quantity": 1
+        },
+        "errors": [
+            "Medicine is empty"
+        ]
+    },
+    {
+        "order": {
+            "order_id": 104,
+            "patient_name": "Mona",
+            "medicine": "Medicine C",
+            "quantity": 0
+        },
+        "errors": [
+            "Quantity must be positive"
+        ]
+    }
+]
